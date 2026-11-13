@@ -1,6 +1,6 @@
 # PUMPKIN KNIGHT
 
-![Key Visual](images/key_visual.jpg)
+![Key Visual](images/key_visual.png)
 『PUMPKIN KNIGHT』の公式紹介サイトです。
 
 ---
