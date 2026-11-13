@@ -1,6 +1,6 @@
 # PUMPKIN KNIGHT
 
-![Key Visual](images/key_visual.png)
+![Key Visual](images/key_visual.jpg)
 『PUMPKIN KNIGHT』の公式紹介サイトです。
 
 ---
@@ -27,25 +27,25 @@
 
 オートバトルで魔物と戦い、経験を積んで成長。戦闘中に得られるスキルを組み合わせ、個性的な能力を持つ騎士を育てます。
 
-![Battle](images/battle.png)
+![Battle](images/battle.jpg)
 
 ### CRAFTING **料理・錬成**
 
 森で集めた素材を使ってアイテムを作成。さまざまな効果を組み合わせ、冒険を有利に進めます。
 
-![Crafting](images/crafting.png)
+![Crafting](images/crafting.jpg)
 
 ### ROGUELITE **試練への挑戦**
 
 限られた時間の中で成長と強化を繰り返し、試練と、その先に待つ強大な存在を目指します。
 
-![Growth](images/growth.png)
+![Growth](images/growth.jpg)
 
 ### SCREEN SHOT **スクリーンショット**
 
-![Screenshot 1](images/screenshot_01.png)
-![Screenshot 2](images/screenshot_02.png)
-![Screenshot 3](images/screenshot_03.png)
+![Screenshot 1](images/screenshot_01.jpg)
+![Screenshot 2](images/screenshot_02.jpg)
+![Screenshot 3](images/screenshot_03.jpg)
 
 ### DEMO MOVIE **ゲーム紹介動画**
 
