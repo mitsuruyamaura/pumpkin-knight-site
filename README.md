@@ -25,11 +25,13 @@
 
 ### BATTLE & GROWTH -**戦闘と育成**-
 
-オートバトルで魔物と戦い、経験を積んで成長。戦闘中に得られるスキルを組み合わせ、個性的な能力を持つ騎士を育てます。
+オートバトルで魔物と戦い、経験を積んで成長。戦闘中に閃くスキルを組み合わせ、個性的な能力を持つ騎士を育てます。
 
 ![Battle](images/battle.jpg)
 
 <img src="images/auto_battle_1.gif" width="1080" alt="AUTO BATTLE">
+
+<img src="images/auto_battle_2.gif" width="1080" alt="AUTO BATTLE">
 
 バトルには介入できます。
 
