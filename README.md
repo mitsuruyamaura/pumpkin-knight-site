@@ -7,7 +7,7 @@
 
 ## Contents
 
-### GAME INTRODUCTION **ゲーム紹介**
+### GAME INTRODUCTION -**ゲーム紹介**-
 
 『PUMPKIN KNIGHT』は、魔女とカボチャの騎士が織りなす、ハロウィンをモチーフにしたオートバトル×ローグライトの育成ゲームです。
 
@@ -21,33 +21,42 @@
 
 ----
 
-### GAME SYSTEM **ゲームシステム**
+### GAME SYSTEM -**ゲームシステム**-
 
-### BATTLE & GROWTH **戦闘と育成**
+### BATTLE & GROWTH -**戦闘と育成**-
 
 オートバトルで魔物と戦い、経験を積んで成長。戦闘中に得られるスキルを組み合わせ、個性的な能力を持つ騎士を育てます。
 
 ![Battle](images/battle.jpg)
 
-### CRAFTING **料理・錬成**
+<img src="images/auto_battle_1.gif" width="1080" alt="AUTO BATTLE">
+
+バトルには介入できます。
+
+<img src="images/trick_1.gif" width="1080" alt="TRICK OR TREAT">
+
+### CRAFTING -**料理・錬成**-
 
 森で集めた素材を使ってアイテムを作成。さまざまな効果を組み合わせ、冒険を有利に進めます。
 
-![Crafting](images/crafting.jpg)
+![Crafting](images/cooking.jpg)
 
-### ROGUELITE **試練への挑戦**
+### ROGUELITE -**試練への挑戦**-
 
 限られた時間の中で成長と強化を繰り返し、試練と、その先に待つ強大な存在を目指します。
 
-![Growth](images/growth.jpg)
+![Growth](images/event.jpg)
 
-### SCREEN SHOT **スクリーンショット**
+![Growth](images/levelup.jpg)
+
+### SCREEN SHOT -**スクリーンショット**-
 
 ![Screenshot 1](images/screenshot_01.jpg)
 ![Screenshot 2](images/screenshot_02.jpg)
 ![Screenshot 3](images/screenshot_03.jpg)
+![Screenshot 3](images/screenshot_04.jpg)
 
-### DEMO MOVIE **ゲーム紹介動画**
+### DEMO MOVIE -**ゲーム紹介動画**-
 
 https://www.youtube.com/@PUMPKINKNIGHTOfficialChannel
 
