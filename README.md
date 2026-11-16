@@ -33,7 +33,7 @@
 
 <img src="images/auto_battle_2.gif" width="1080" alt="AUTO BATTLE">
 
-バトルには介入できます。
+「おまじない」を使ってタイムラインに介入し、敵味方のスキル発動順を組み替えることができます。
 
 <img src="images/trick_1.gif" width="1080" alt="TRICK OR TREAT">
 
