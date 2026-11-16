@@ -61,3 +61,14 @@ footer {
     color: #999999;
     border-top: 1px solid #51404b;
 }
+
+/* リンク */
+a {
+    color: #FFA94D;
+    text-decoration: underline;
+}
+
+/* リンクにマウスを乗せたとき */
+a:hover {
+    color: #FFD08A;
+}
