@@ -61,20 +61,20 @@ https://mitsuruyamaura.github.io/pumpkin-knight-site/
 ![Screenshot 3](images/screenshot_03.jpg)
 ![Screenshot 3](images/screenshot_04.jpg)
 
-### DEMO MOVIE -**ゲーム紹介動画**-
+### GAMEPLAY VIDEO -**ゲームプレイ動画**-
 
-https://www.youtube.com/@PUMPKINKNIGHTOfficialChannel
+[YouTube 公式チャンネル](https://www.youtube.com/@PUMPKINKNIGHTOfficialChannel)
 
-## Platform
+## PLATFORM
 
-- steam(展開予定)
+- Steam(展開予定)
 - Nintendo Switch(展開予定)
 - Nintendo Switch 2(展開予定)
 
-## Developer
+## DEVELOPER
 
-Mitsuru Yamaura
+[Mitsuru Yamaura](https://github.com/mitsuruyamaura)
 
-## License
+## LICENSE
 
 All rights reserved.
